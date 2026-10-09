@@ -1,0 +1,12 @@
+{
+    "owner": {
+        "username": "riyad-123"
+    },
+    "records": {
+        "A": "216.198.79.1",
+        "TXT": {
+            "name": "_vercel",
+            "value": "vc-domain-verify=riyad.is-a.dev,6a19eda5a76c00ba81a3"
+        }
+    }
+}
